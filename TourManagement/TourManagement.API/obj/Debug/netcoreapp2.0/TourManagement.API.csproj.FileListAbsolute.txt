@@ -1,0 +1,11 @@
+D:\Subin\Tech\Asp.Net Core\pluralsight\Kevin_Business App with asp_angular\Subin\TourManagement\TourManagement.API\bin\Debug\netcoreapp2.0\TourManagement.API.deps.json
+D:\Subin\Tech\Asp.Net Core\pluralsight\Kevin_Business App with asp_angular\Subin\TourManagement\TourManagement.API\bin\Debug\netcoreapp2.0\TourManagement.API.runtimeconfig.json
+D:\Subin\Tech\Asp.Net Core\pluralsight\Kevin_Business App with asp_angular\Subin\TourManagement\TourManagement.API\bin\Debug\netcoreapp2.0\TourManagement.API.runtimeconfig.dev.json
+D:\Subin\Tech\Asp.Net Core\pluralsight\Kevin_Business App with asp_angular\Subin\TourManagement\TourManagement.API\bin\Debug\netcoreapp2.0\TourManagement.API.dll
+D:\Subin\Tech\Asp.Net Core\pluralsight\Kevin_Business App with asp_angular\Subin\TourManagement\TourManagement.API\bin\Debug\netcoreapp2.0\TourManagement.API.pdb
+D:\Subin\Tech\Asp.Net Core\pluralsight\Kevin_Business App with asp_angular\Subin\TourManagement\TourManagement.API\obj\Debug\netcoreapp2.0\TourManagement.API.csprojResolveAssemblyReference.cache
+D:\Subin\Tech\Asp.Net Core\pluralsight\Kevin_Business App with asp_angular\Subin\TourManagement\TourManagement.API\obj\Debug\netcoreapp2.0\TourManagement.API.csproj.CoreCompileInputs.cache
+D:\Subin\Tech\Asp.Net Core\pluralsight\Kevin_Business App with asp_angular\Subin\TourManagement\TourManagement.API\obj\Debug\netcoreapp2.0\TourManagement.API.AssemblyInfoInputs.cache
+D:\Subin\Tech\Asp.Net Core\pluralsight\Kevin_Business App with asp_angular\Subin\TourManagement\TourManagement.API\obj\Debug\netcoreapp2.0\TourManagement.API.AssemblyInfo.cs
+D:\Subin\Tech\Asp.Net Core\pluralsight\Kevin_Business App with asp_angular\Subin\TourManagement\TourManagement.API\obj\Debug\netcoreapp2.0\TourManagement.API.dll
+D:\Subin\Tech\Asp.Net Core\pluralsight\Kevin_Business App with asp_angular\Subin\TourManagement\TourManagement.API\obj\Debug\netcoreapp2.0\TourManagement.API.pdb

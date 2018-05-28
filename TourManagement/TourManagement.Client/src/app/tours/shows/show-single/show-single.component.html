@@ -1,0 +1,50 @@
+<div [formGroup]="show">
+  <div class="form-group">
+    <label class="col-md-2 control-label" [attr.for]="'dateAndTimeId'+showIndex">
+      Date and Time
+    </label>
+    <div class="col-md-8">
+      <input class="form-control" [attr.id]="'dateAndTimeId'+showIndex"
+             type="date" formControlName="dateAndTime" />
+    </div>
+  </div>
+
+  <div class="form-group">
+    <label class="col-md-2 control-label" [attr.for]="'venueId'+showIndex">
+      Venue
+    </label>
+    <div class="col-md-8">
+      <input class="form-control" [attr.id]="'venueId'+showIndex"
+             type="text" formControlName="venue" />
+    </div>
+  </div>
+
+  <div class="form-group">
+    <label class="col-md-2 control-label" [attr.for]="'cityId'+showIndex">
+      City
+    </label>
+    <div class="col-md-8">
+      <input class="form-control" [attr.id]="'cityId'+showIndex"
+             type="text" formControlName="city" />
+    </div>
+  </div>
+
+  <div class="form-group">
+    <label class="col-md-2 control-label" [attr.for]="'countryId'+showIndex">
+      Country
+    </label>
+    <div class="col-md-8">
+      <input class="form-control" [attr.id]="'countryId'+showIndex"
+             type="text" formControlName="country" />
+    </div>
+  </div>
+
+  <div class="form-group">
+    <div class="col-md-10">
+      <button class="btn btn-danger pull-right" (click)="removeShowClicked.emit(showIndex)">
+        Remove Show
+      </button>
+    </div>
+  </div>
+
+</div>
